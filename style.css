@@ -42,6 +42,10 @@ p{
     line-break: loose;
 }
 
+article{
+    padding: 25px;
+}
+
 #blog{
     border-top: thick groove lightblue;
 }
