@@ -57,6 +57,14 @@ article{
     padding: 40px;
 }
 
+form{
+    margin: 10px;
+}
+
+label{
+    margin: 5px;
+}
+
 #blog{
     border-top: thick groove lightblue;
 }
