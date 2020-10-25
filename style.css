@@ -61,6 +61,10 @@ article{
     border-top: thick groove lightblue;
 }
 
+.namefix{
+    margin-top: -10px;
+}
+
 .above{
     border-top: thick groove lightblue;
 }
