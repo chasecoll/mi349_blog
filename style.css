@@ -17,8 +17,9 @@ font-size: xx-large;
 
 nav{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-style: oblique;
-    border-bottom: thin, lightblue;
+    font-style: normal;
+    font-size: larger;
+    border-bottom: lightblue thick;
 }
 p{
 
