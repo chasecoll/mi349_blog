@@ -1,6 +1,8 @@
 body{
+    background-color: aqua;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 40px;
+    color:black 
 }
 
 h1{
