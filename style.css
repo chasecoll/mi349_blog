@@ -3,7 +3,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 40px;
     color:black;
-    border-top-left-radius: 80 px solid red;
+    border-top: 20 px solid red;
 }
 
 h1{
