@@ -27,16 +27,22 @@ h2{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-variant: small-caps;
 font-style: normal;
+font-size: medium;
 }
 
 p{
-
+    line-height: 1.5em;
+    line-break: loose;
 }
 
 #blog{
-
+    border-top: thin groove lightblue;
 }
 
 .blog-post{
-
+    border-bottom: thin groove lightblue;
 }
+
+[title~=flower] {
+    border: 5px solid yellow;
+  }
