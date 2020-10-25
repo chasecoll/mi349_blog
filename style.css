@@ -71,16 +71,15 @@ article{
 }
 
 form{
-    margin: 50px;
+    margin: 25px;
 }
 
 label{
-    margin: 300px;
+    margin: 15px;
 }
 
 fieldset{
     margin: 10px;
-    margin-left: 300px;
 }
 
 #blog{
