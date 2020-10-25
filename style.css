@@ -1,5 +1,9 @@
+html {
+    background-color: whitesmoke;
+}
 body{
-    background-color:whitesmoke;
+    padding: 20px;
+    background-color:rgba(245, 245, 245, 0.884);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 40px;
     color:black;
