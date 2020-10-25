@@ -27,14 +27,14 @@ h2{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-variant: small-caps;
 font-style: normal;
-font-size: x-large;
+font-size: xx-large;
 }
 
 h3{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-variant: small-caps;
 font-style: normal; 
-font-size: medium;   
+font-size: large;   
 }
 
 p{
@@ -43,6 +43,10 @@ p{
 }
 
 #blog{
+    border-top: thick groove lightblue;
+}
+
+.above{
     border-top: thick groove lightblue;
 }
 
