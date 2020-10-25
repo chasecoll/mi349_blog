@@ -20,7 +20,7 @@ nav{
     font-variant: small-caps;
     font-style: normal;
     font-size: larger;
-    border-bottom:20px lightblue thick;
+    border-bottom:<20px> <groove> <lightblue thick>;
 }
 
 h2{
