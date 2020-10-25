@@ -44,6 +44,13 @@ font-style: normal;
 font-size: large;   
 }
 
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: small-caps;
+    font-style: normal;
+    font-size: large; 
+}
+
 h5{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-variant: small-caps;
