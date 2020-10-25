@@ -2,7 +2,8 @@ body{
     background-color:whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 40px;
-    color:black 
+    color:black;
+    border-top-left-radius: 10 px solid red;
 }
 
 h1{
