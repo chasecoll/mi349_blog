@@ -1,6 +1,6 @@
 
 html {
-    background-color:rgb(247, 247, 247);
+    background-color:rgb(151, 193, 240);
 }
 body{
     background-color:whitesmoke;
@@ -16,12 +16,17 @@ font-variant: small-caps;
 font-size: xx-large;
 }
 
+header{
+    margin-left: 15px;
+}
+
 nav{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-variant: small-caps;
     font-style: normal;
     font-size: larger;
     border-bottom: thin groove lightblue;
+    margin-left: 15px;
 }
 
 h2{
@@ -87,6 +92,10 @@ fieldset{
 
 .above{
     border-top: thick groove lightblue;
+}
+
+.contact{
+    margin-left: 15px;
 }
 
 .blog-post{
