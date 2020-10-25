@@ -69,6 +69,10 @@ fieldset{
     margin: 10px;
 }
 
+legend{
+    border-right: 0px;
+}
+
 #blog{
     border-top: thick groove lightblue;
 }
