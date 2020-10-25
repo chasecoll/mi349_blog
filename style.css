@@ -62,7 +62,11 @@ form{
 }
 
 label{
-    margin: 45px;
+    margin: 25px;
+}
+
+fieldset{
+    margin: 10px;
 }
 
 #blog{
