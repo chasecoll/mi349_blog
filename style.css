@@ -36,13 +36,13 @@ p{
 }
 
 #blog{
-    border-top: thin groove lightblue;
+    border-top: thick groove lightblue;
 }
 
 .blog-post{
-    border-bottom: thin groove lightblue;
+    border-bottom: thick groove lightblue;
 }
 
-[title~=flower] {
-    border: 5px solid yellow;
+[title~=image1] {
+    border: 5px solid red;
   }
