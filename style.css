@@ -27,13 +27,14 @@ h2{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-variant: small-caps;
 font-style: normal;
+font-size: x-large;
 }
 
 h3{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-variant: small-caps;
 font-style: normal; 
-font-size: medium;   
+font-size: large;   
 }
 
 p{
@@ -50,5 +51,5 @@ p{
 }
 
 [title~=image1] {
-    border: 5px solid red;
+    border: 5px groove lightblue;
   }
