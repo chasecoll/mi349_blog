@@ -6,7 +6,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 40px;
     color:black;
-    border-left: 10px dotted lightblue;
+    border-top: 10px groove lightblue;
 }
 
 h1{
