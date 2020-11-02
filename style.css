@@ -71,6 +71,7 @@ article{
 }
 
 form{
+    display: flex;
     margin-left: 50px;
 }
 
