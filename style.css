@@ -74,6 +74,7 @@ form{
     display: flex;
     margin: 50px;
     margin-bottom: 50px;
+    border: lightblue thin;
 }
 
 label{
@@ -82,7 +83,7 @@ label{
 
 fieldset{
     margin: 20px;
-    width: 1000;
+    width: 1000px;
 }
 
 #blog{
