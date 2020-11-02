@@ -122,6 +122,7 @@ fieldset{
 }
 
 .artborder{
+    font-size: larger;
     margin-bottom: 50px;
     border-bottom: thin groove lightblue;
 }
