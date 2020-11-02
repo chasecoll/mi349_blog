@@ -134,19 +134,20 @@ fieldset{
   }
 
 .div1{
-    padding: 3em;
+    padding: 2em;
     display:flex;
     flex-direction: column;
     order: 2;
+    margin: 5px;
 }
 
 .div1 > textarea {
     flex: 1;
-    min-width: 14em;
+    min-width: 18em;
 }
 
 .div2{
-    padding:3em;
+    padding:2em;
     flex:1;
     order:1;
 }
