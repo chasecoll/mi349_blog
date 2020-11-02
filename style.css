@@ -109,6 +109,14 @@ fieldset{
     top: 0;
 }
 
+.imgcontainer{
+    background: black;
+    height: 75px;
+    width: 75px;
+    float: left;
+    margin-right: 10px;
+}
+
 [title~=image1] {
     border: 5px groove lightblue;
   }
