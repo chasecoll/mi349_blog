@@ -158,3 +158,8 @@ fieldset{
     border: thin;
     size: 100px;
 }
+
+.form1{
+    display: flex;
+    padding: 1.8em;
+}
