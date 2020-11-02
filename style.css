@@ -71,6 +71,7 @@ article{
 }
 
 form{
+    display: flex;
     margin-left: 50px;
 }
 
@@ -78,16 +79,12 @@ label{
     margin: 15px;
 }
 
-label:nth-of-type(1){
+.label1{
     flex:1;
 }
 
-label:nth-of-type(2){
+.label2{
     flex:1;
-}
-
-label:nth-of-type(6){
-    flex:3;
 }
 
 fieldset{
