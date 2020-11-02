@@ -73,6 +73,7 @@ article{
 form{
     display: flex;
     margin: 50px;
+    margin-bottom: 50px;
 }
 
 label{
@@ -81,6 +82,7 @@ label{
 
 fieldset{
     margin: 20px;
+    width: 1000;
 }
 
 #blog{
