@@ -134,6 +134,7 @@ fieldset{
   }
 
 .div1{
+    padding: 3em;
     display:flex;
     flex-direction: column;
     order: 2;
@@ -145,6 +146,13 @@ fieldset{
 }
 
 .div2{
+    padding:3em;
     flex:1;
     order:1;
+}
+
+.button1{
+    background: grey;
+    color: whitesmoke;
+    border: thin;
 }
