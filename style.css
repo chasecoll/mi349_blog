@@ -105,8 +105,8 @@ fieldset{
 .sticky{
     background: rgb(218, 217, 217);
     position: sticky;
-    position: -webkit-sticky;
-    top: 0 px;
+    position: -webkit-sticky; 
+    top: 0;
 }
 
 [title~=image1] {
