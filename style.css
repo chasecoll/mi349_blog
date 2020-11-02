@@ -103,7 +103,7 @@ fieldset{
 }
 
 .sticky{
-    background: rgb(218, 217, 217);
+    background: rgb(245, 245, 245);
     position: sticky;
     position: -webkit-sticky; 
     top: 0;
