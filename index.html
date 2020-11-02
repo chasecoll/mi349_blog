@@ -116,13 +116,16 @@
     <p class = "contact">If you have any questions or concerns please fill out the form below and the authour will get in touch with you as soon as possible.
         I hope you have a great day!
     </p>
-    <form>
-        <label class="label1">Name:
+    <form class ="form1">
+        <div class = "div2">
+        <label>Name:
             <input type= "text">
         </label>
-        <label class ="label1">Email:
+
+        <label>Email:
             <input type= "email">
         </label>
+        </div>
         <fieldset>
             <legend>Reason For Contact:</legend>
             <label> 
@@ -138,9 +141,11 @@
                 Interested In An Interview
             </label>
         </fieldset>
-        <label class ="label2">What's On Your Mind?
-            <input type="text">
+        <div class = "div1">
+        <label>What's On Your Mind?
+            <textarea id = "message"></textarea>
         </label>
+        </div>
         <button>Send</button>
     </form>
 </section>
@@ -148,3 +153,23 @@
 
 
 </html>
+
+
+<form class="myForm">
+    <div class="message">
+      <label for="msg">Message</label>
+      <textarea id="msg"></textarea>
+    </div>
+    <div class="contact">
+      <label for="name">Name</label>
+      <input type="text" id="name">
+  
+      <label for="townborn">Town you were born in</label>
+      <input type="text" id="townborn">
+  
+      <label for="email">Email Address</label>
+      <input type="email" id="email"> 
+  
+      <button type="submit">Submit</button>
+    </div>
+  </form>
