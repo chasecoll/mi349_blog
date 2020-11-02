@@ -134,7 +134,7 @@ fieldset{
   }
 
 .div1{
-    padding: 2em;
+    padding: 1em;
     display:flex;
     flex-direction: column;
     order: 2;
@@ -147,7 +147,7 @@ fieldset{
 }
 
 .div2{
-    padding:2em;
+    padding:1em;
     flex:1;
     order:1;
 }
@@ -161,5 +161,5 @@ fieldset{
 
 .form1{
     display: flex;
-    padding: 1.8em;
+    padding: 1em;
 }
