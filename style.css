@@ -162,4 +162,5 @@ fieldset{
 .form1{
     display: flex;
     padding: 1em;
+    border: thin lightblue;
 }
