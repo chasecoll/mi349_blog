@@ -55,19 +55,23 @@
             the blog, feel free to keep reading more of my posts! </p>  
     </article>
 </section>
+
 <section>
     <h3 class = "contact">Contact Me</h3>
-    <p class = "contact">
-        If you have any questions or concerns please fill out the form below and the authour will get in touch with you as soon as possible.
+    <p class = "contact">If you have any questions or concerns please fill out the form below and the authour will get in touch with you as soon as possible.
         I hope you have a great day!
     </p>
-    <form>
+    <form class ="form1">
+        <div class = "div2">
         <label>Name:
             <input type= "text">
         </label>
+
         <label>Email:
             <input type= "email">
         </label>
+        </div>
+        <div class = "div1">
         <fieldset>
             <legend>Reason For Contact:</legend>
             <label> 
@@ -83,10 +87,15 @@
                 Interested In An Interview
             </label>
         </fieldset>
+        </div>
+        <div class = "div1">
         <label>What's On Your Mind?
-            <input type="text">
+            <textarea id = "message"></textarea>
         </label>
-        <button>Send</button>
+        </div>
+        <div class = "div1">
+        <button class = "button1">Send</button>
+    </div>
     </form>
 </section>
 </main>
