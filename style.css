@@ -120,6 +120,10 @@ fieldset{
 
 }
 
+.artborder{
+    border-bottom: thin groove lightblue;
+}
+
 [title~=image1] {
     border: 5px groove lightblue;
   }
