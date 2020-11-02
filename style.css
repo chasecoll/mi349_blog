@@ -102,6 +102,12 @@ fieldset{
     border-bottom: thick groove lightblue;
 }
 
+.sticky{
+    background: rgb(218, 217, 217);
+    position: sticky;
+    top: 0 px;
+}
+
 [title~=image1] {
     border: 5px groove lightblue;
   }
