@@ -170,7 +170,7 @@ fieldset{
 
  @media (max-width: 400px){
      #c1 {
-         background: lightpink;
+         background-color: lightpink;
          margin: 0px;
      }
      #c2 {
