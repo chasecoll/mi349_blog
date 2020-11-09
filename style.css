@@ -167,3 +167,13 @@ fieldset{
     border: thick lightblue;
     background-color: rgb(209, 242, 253);
 }
+
+ @media (max-width: 400px){
+     #c1 {
+         background: lightpink;
+         margin: 0px;
+     }
+     #c2 {
+
+     }
+ }
